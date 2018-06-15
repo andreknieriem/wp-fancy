@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpfancy 1.1\n"
+"POT-Creation-Date: 2015-11-16 12:16+0100\n"
+"PO-Revision-Date: 2015-11-16 12:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16 ../includes/gallery.php:83
+msgid "Close Gallery"
+msgstr "Galerie schließen"
+
+#: ../404.php:18 ../includes/gallery.php:85
+msgid "Open Gallery"
+msgstr "Galerie öffnen"
+
+#: ../author.php:12
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autorenarchiv: %s"
+
+#: ../category.php:13
+#, php-format
+msgid "Category: %s"
+msgstr "Rubrik: %s"
+
+#: ../comments.php:37
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: ../comments.php:38
+msgid "&larr; Older Comments"
+msgstr "&larr;  Ältere Kommentare"
+
+#: ../comments.php:39
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: ../comments.php:44
+msgid "Comments are closed."
+msgstr "Die Kommentarfunktion ist ausgeschaltet."
+
+#: ../comments.php:55 ../comments.php:56
+#: ../includes/gallery/galleryAdmin.php:83
+#: ../includes/gallery/galleryAdmin.php:150 ../includes/sidebar/plugin.php:173
+msgid "Name"
+msgstr "Name"
+
+#: ../comments.php:60 ../comments.php:61
+msgid "Email"
+msgstr "E-Mail"
+
+#: ../comments.php:65 ../comments.php:66
+msgid "Website"
+msgstr "Webseite"
+
+#: ../content-aside.php:19 ../content.php:27
+msgid "read more"
+msgstr "weiterlesen"
+
+#: ../content-aside.php:28 ../content-image.php:26 ../content-link.php:21
+#: ../content-status.php:17 ../content.php:36
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiter lesen %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-aside.php:32 ../content.php:40
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ../content-aside.php:38 ../content-image.php:37 ../content.php:46
+msgid "Leave a comment"
+msgstr "Kommentar schreiben"
+
+#: ../content-aside.php:38 ../content-image.php:37 ../content.php:46
+msgid "One comment so far"
+msgstr "Ein Kommentar bisher"
+
+#: ../content-aside.php:38 ../content-image.php:37 ../content.php:46
+#, php-format
+msgid "View all %s comments"
+msgstr "Alle %s Kommentare"
+
+#: ../content-none.php:9
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: ../content-none.php:15
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bereit deinen ersten Post zu verfassen? <a href=\"%1$s\">Fange hier an</a>."
+
+#: ../content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr "Es tut uns leid, aber leider gab es bei deiner Suche keinen Treffer."
+
+#: ../content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Es scheint, als könnten wir nicht finden was du suchst. Probiere die Suche "
+"aus."
+
+#: ../functions.php:149
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: ../functions.php:162 ../includes/admin/admin.php:147
+#: ../includes/admin/admin.php:149 ../includes/sidebar/views/meta-box.php:6
+msgid "Default Sidebar"
+msgstr "Standard Sidebar"
+
+#: ../functions.php:164
+msgid "Appears in the sidebar of the site."
+msgstr "Erscheint in der Sidebar der Seite"
+
+#: ../functions.php:172
+msgid "Footercontent"
+msgstr "Footer Inhalt"
+
+#: ../functions.php:174
+msgid "Appears in the sidebar at the bottom"
+msgstr "Erscheint unten in der Sidebar"
+
+#: ../functions.php:200
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Beiträge"
+
+#: ../functions.php:204
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../functions.php:248
+msgid "Sticky"
+msgstr "Fest"
+
+#: ../functions.php:254 ../functions.php:260
+msgid ", "
+msgstr ","
+
+#: ../functions.php:269
+#, php-format
+msgid "View all posts by %s"
+msgstr "Alle Beiträge von %s"
+
+#: ../functions.php:295
+#, php-format
+msgid "Permalink to %s"
+msgstr "Link zu %s"
+
+#: ../functions.php:521 ../includes/gallery/galleryAdmin.php:13
+msgid "Galleries"
+msgstr "Galerien"
+
+#: ../includes/admin/admin.php:44
+msgid "Settings updated"
+msgstr "Einstellungen gespeichert"
+
+#: ../includes/admin/admin.php:63 ../includes/admin/admin.php:403
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: ../includes/admin/admin.php:70
+msgid "General Settings"
+msgstr "Einstellungen"
+
+#: ../includes/admin/admin.php:75
+msgid "Logo"
+msgstr "Logo"
+
+#: ../includes/admin/admin.php:79 ../includes/admin/admin.php:94
+#: ../includes/admin/admin.php:110
+msgid "Upload"
+msgstr "Hochladen"
+
+#: ../includes/admin/admin.php:83
+msgid ""
+"Upload a logo image, or enter the URL of an image if its already uploaded. "
+"The themes default logo gets applied if the input field is left blank. Max. "
+"Dimensions: 190x50"
+msgstr ""
+"Upload a logo image, or enter the URL of an image if its already uploaded. "
+"The themes default logo gets applied if the input field is left blank. Max. "
+"Dimensions: 190x50Lade ein Logo"
+
+#: ../includes/admin/admin.php:91
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../includes/admin/admin.php:98
+msgid "Specify a favicon for your site. Accepted formats: .ico, .png, .gif "
+msgstr "Lege ein Favicon for deine Seite an. Formate sind: ico, png & gif"
+
+#: ../includes/admin/admin.php:106
+msgid "Default Gallery Image"
+msgstr "Standard Galerie-Bild"
+
+#: ../includes/admin/admin.php:114
+msgid ""
+"Upload a default gallery image, or enter the URL of an image if its already "
+"uploaded. The themes default image gets applied if the input field is left "
+"blank."
+msgstr ""
+"Upload a default gallery image, or enter the URL of an image if its already "
+"uploaded. The themes default image gets applied if the input field is left "
+"blank."
+
+#: ../includes/admin/admin.php:122
+msgid "Default Gallery"
+msgstr "Standard Galerie"
+
+#: ../includes/admin/admin.php:139 ../includes/admin/admin.php:166
+msgid "If you have added a gallery you can use it as default."
+msgstr ""
+"Falls Sie schon eine Galerie hinzugefügt haben, können Sie diese als "
+"Standard-Galerie setzen."
+
+#: ../includes/admin/admin.php:175
+msgid "Google Analytics Tracking Code"
+msgstr "Google Analytics Tracking Code"
+
+#: ../includes/admin/admin.php:181
+msgid ""
+"Enter your Google analytics tracking Code here. It will automatically be "
+"added so google can track your visitors behavior."
+msgstr "Geben Sie hier Ihren Google Analytics Tracking Code ein."
+
+#: ../includes/admin/admin.php:190
+msgid "Search Settings"
+msgstr "Such-Einstellungen"
+
+#: ../includes/admin/admin.php:204
+msgid "Enable Search"
+msgstr "Suche aktivieren"
+
+#: ../includes/admin/admin.php:210
+msgid "If search is enabled it will displayed right after the navigation."
+msgstr ""
+"Wenn die Suche aktiviert ist, wird diese rechts neben der Navigation "
+"angezeigt"
+
+#: ../includes/admin/admin.php:218
+msgid "Search pages show at most this amount of posts"
+msgstr "Auf der Suche werden diese Anzahl von Beiträgen pro Seite gezeigt"
+
+#: ../includes/admin/admin.php:224
+msgid ""
+"If filled, the search pages will display this amount of items per page. If "
+"not set the default Blogposts value is taken"
+msgstr ""
+"Falls ausgefüllt werden auf in der Suche so viele Beiträge pro Seite "
+"angezeigt"
+
+#: ../includes/admin/admin.php:234
+msgid "Styling"
+msgstr "Styling"
+
+#: ../includes/admin/admin.php:238
+msgid "Main color"
+msgstr "Hauptfarbe"
+
+#: ../includes/admin/admin.php:247
+msgid "Main head color"
+msgstr "Farbe des Kopfbereichs im Hauptcontent"
+
+#: ../includes/admin/admin.php:258
+msgid "Sidebar color"
+msgstr "Sidebar-Farbe"
+
+#: ../includes/admin/admin.php:267
+msgid "Sidebar head color"
+msgstr "Farbe des Kopfbereichs in der Sidebar"
+
+#: ../includes/admin/admin.php:278
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: ../includes/admin/admin.php:287
+msgid "Sidebar Text color"
+msgstr "Textfarbe der Sidebar"
+
+#: ../includes/admin/admin.php:298
+msgid "Headline color"
+msgstr "Überschriften-Farbe"
+
+#: ../includes/admin/admin.php:307
+msgid "Sidebar Headline color"
+msgstr "Überschriften-Farbe der Sidebar"
+
+#: ../includes/admin/admin.php:318
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: ../includes/admin/admin.php:327
+msgid "Button color"
+msgstr "Button-Farbe"
+
+#: ../includes/admin/admin.php:340
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: ../includes/admin/admin.php:346
+msgid ""
+"Enter your additional CSS Code here. It will automatically be added to the "
+"end of the page."
+msgstr ""
+"Enter your additional CSS Code here. It will automatically be added to the "
+"end of the page."
+
+#: ../includes/admin/admin.php:355
+msgid "Social Settings"
+msgstr "Soziale Netzwerke"
+
+#: ../includes/admin/admin.php:368 ../includes/gallery/galleryAdmin.php:158
+msgid "Add"
+msgstr "Hinzufügen"
+
+#: ../includes/admin/admin.php:372
+msgid ""
+"Add your social media profiles here. They will be displayed at the bottom of "
+"the sidebar."
+msgstr ""
+"Füge deine sozialen Netzwerke hier hinzu. Diese werden unten in der Sidebar "
+"eingezeigt"
+
+#: ../includes/admin/admin.php:389
+msgid "Remove"
+msgstr "Entfernen"
+
+#: ../includes/back-compat.php:35 ../includes/back-compat.php:45
+#: ../includes/back-compat.php:58
+#, php-format
+msgid ""
+"Wp Fancy requires at least WordPress version 3.6. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+"Wp Fancy benötigt mindestes WordPress 3.6. Sie benutzen Version %s. Bitte "
+"aktualisieren Sie ihre Wordpress Installation."
+
+#: ../includes/gallery/galleryAdmin.php:13 ../includes/sidebar/plugin.php:96
+msgid "Create"
+msgstr "Erstellen"
+
+#: ../includes/gallery/galleryAdmin.php:22
+msgid "Id"
+msgstr "Id"
+
+#: ../includes/gallery/galleryAdmin.php:24 ../includes/sidebar/plugin.php:101
+msgid "Title"
+msgstr "Titel"
+
+#: ../includes/gallery/galleryAdmin.php:29
+#: ../includes/gallery/galleryAdmin.php:158
+msgid "Images"
+msgstr "Bilder"
+
+#: ../includes/gallery/galleryAdmin.php:32
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/gallery/galleryAdmin.php:34 ../includes/sidebar/plugin.php:105
+msgid "Actions"
+msgstr "Aktionen"
+
+#: ../includes/gallery/galleryAdmin.php:49 ../includes/sidebar/plugin.php:117
+msgid "Delete"
+msgstr "Löschen"
+
+#: ../includes/gallery/galleryAdmin.php:77
+msgid "Create Gallery"
+msgstr "Galerie erstellen"
+
+#: ../includes/gallery/galleryAdmin.php:94
+msgid "Add Gallery"
+msgstr "Galerie hinzufügen"
+
+#: ../includes/gallery/galleryAdmin.php:138
+msgid "Edit Gallery"
+msgstr "Galerie bearbeiten"
+
+#: ../includes/gallery/galleryAdmin.php:141
+msgid "Gallery updated"
+msgstr "Galerie aktualisiert"
+
+#: ../includes/gallery/galleryAdmin.php:144
+msgid "Gallery created"
+msgstr "Galerie erstellt"
+
+#: ../includes/gallery/galleryAdmin.php:161
+msgid "Drag and drop images to sort them"
+msgstr "Zum sortieren die Bilder ziehen und loslassen"
+
+#: ../includes/gallery/galleryAdmin.php:189
+msgid "Add image"
+msgstr "Bild hinzufügen"
+
+#: ../includes/gallery/galleryAdmin.php:203
+msgid "Update Gallery"
+msgstr "Galerie aktualisieren"
+
+#: ../includes/gallery/galleryAdmin.php:242
+msgid "Edit Image"
+msgstr "Bild bearbeiten"
+
+#: ../includes/gallery/galleryAdmin.php:246
+#: ../includes/gallery/galleryAdmin.php:338
+msgid "Click the image to set the FocusPoint."
+msgstr "Klicke auf das Bild um den Fokuspunkt zu setzen."
+
+#: ../includes/gallery/galleryAdmin.php:264
+#: ../includes/gallery/galleryAdmin.php:356
+msgid "Save image"
+msgstr "Bild speichern"
+
+#: ../includes/gallery/galleryAdmin.php:269
+msgid "Delete image"
+msgstr "Bild löschen"
+
+#: ../includes/gallery/galleryAdmin.php:332
+msgid "Upload image"
+msgstr "Bild hochladen"
+
+#: ../includes/gallery/metabox.php:17
+msgid "Choose a gallery"
+msgstr "Galerie wählen"
+
+#: ../includes/sidebar/admin/admin.php:21
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: ../includes/sidebar/plugin.php:96
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: ../includes/sidebar/plugin.php:160
+msgid " is already taken"
+msgstr "ist bereits vergeben"
+
+#: ../includes/sidebar/plugin.php:167
+msgid "Create Sidebar"
+msgstr "Sidebar erstellen"
+
+#: ../includes/sidebar/plugin.php:184
+msgid "Add Sidebar"
+msgstr "Sidebar hinzufügen"
+
+#: ../includes/sidebar/views/meta-box.php:4
+msgid "Current sidebar:"
+msgstr "Derzeitige Sidebar"
+
+#: ../includes/sidebar/views/meta-box.php:20
+msgid "Or create a new sidebar:"
+msgstr "Oder erstelle eine neue Sidebar"
+
+#: ../includes/sidebar/widget-area.php:18 ../includes/widget-area.php:18
+msgid "Include all widgets from another widget area"
+msgstr "Füge alle Widgets eines anderen Widget-Bereichs ein"
+
+#: ../includes/sidebar/widget-area.php:22 ../includes/widget-area.php:22
+msgid "Widget Area"
+msgstr "Widget Bereich"
+
+#: ../includes/sidebar/widget-area.php:62 ../includes/widget-area.php:62
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../includes/sidebar/widget-area.php:66 ../includes/widget-area.php:66
+msgid "Area Name:"
+msgstr "Bereichsname:"
+
+#: ../search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: ../tag.php:12
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
